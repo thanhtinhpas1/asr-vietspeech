@@ -1,6 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.asr.vietspeech</groupId>
+  <groupId>com.github.thanhtinhpas1</groupId>
   <artifactId>asr-vietspeech</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
@@ -118,8 +118,8 @@
   </distributionManagement>
 
   <scm>
-    <connection>scm:git:git://github.com/thanhtinhpas1/asr-sdk-java.git</connection>
-    <developerConnection>scm:git:ssh://github.com:thanhtinhpas1/asr-sdk-java.git</developerConnection>
-    <url>https://github.com/thanhtinhpas1/asr-sdk-java/tree/master</url>
+    <connection>scm:git:git://github.com/thanhtinhpas1/asr-vietspeech.git</connection>
+    <developerConnection>scm:git:ssh://github.com:thanhtinhpas1/asr-vietspeech.git</developerConnection>
+    <url>https://github.com/thanhtinhpas1/asr-vietspeech/tree/master</url>
   </scm>
 </project>
